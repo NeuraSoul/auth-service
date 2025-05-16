@@ -2,7 +2,7 @@ package repositories
 
 import (
 	"log"
-	"auth-service/internal/domain/models"
+	"github.com/NeuraSoul/auth-service/internal/domain/models"
 	"gorm.io/gorm"
 )
 

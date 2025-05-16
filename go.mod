@@ -1,4 +1,4 @@
-module auth-service
+module github.com/NeuraSoul/auth-service
 
 go 1.23.2
 

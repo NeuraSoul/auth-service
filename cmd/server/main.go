@@ -4,9 +4,9 @@ import (
 	"log"
 	"net"
 
-	"auth-service/internal/domain/services"
-	"auth-service/internal/repositories"
-	pd "auth-service/pkg/grpc"
+	"github.com/NeuraSoul/auth-service/internal/domain/services"
+	"github.com/NeuraSoul/auth-service/internal/repositories"
+	pd "github.com/NeuraSoul/auth-service/pkg/grpc"
 
 	"google.golang.org/grpc"
 	"gorm.io/gorm"

@@ -4,8 +4,8 @@ import (
 	"context"
 	"log"
 
-	pd "auth-service/pkg/grpc"
-	"auth-service/internal/domain/models"
+	pd "github.com/NeuraSoul/auth-service/pkg/grpc"
+	"github.com/NeuraSoul/auth-service/internal/domain/models"
 )
 
 type AuthRepository interface {
